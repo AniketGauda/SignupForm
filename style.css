@@ -1,0 +1,48 @@
+*{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 30px;
+}
+
+header{
+    padding:0 30px ;
+}
+
+main{
+    padding: 20px 30px;
+    width: 1000px;
+}
+
+footer{
+    padding: 30px;
+}
+
+button{
+    background-color: white;
+    color: black;
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border: none;
+}
+
+input{
+    border: none;
+    font-size: 23px;
+}
+
+#dob{
+    visibility: hidden;
+}
+
+#rd1{
+    margin-right: 35px;
+}
+
+.slt{
+    accent-color: black;
+}
